@@ -3,7 +3,7 @@ import React from 'react';
 export default function Router1() {
   return (
     <div>
-      This is from the Router1 Component!
+      This is from the Router 1 Component!
     </div>
   )
 }
